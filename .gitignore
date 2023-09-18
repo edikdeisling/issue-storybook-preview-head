@@ -16,6 +16,7 @@ yarn-error.log*
 *.njsproj
 *.sln
 *.sw*
+storybook-static
 
 # Yarn files
 .pnp.*
