@@ -1,0 +1,1 @@
+{"version":3,"file":"BaseCircle.stories-1fcc97f5.js","sources":["../../src/BaseCircle.vue"],"sourcesContent":["<script lang=\"js\" setup></script>\n\n<template>\n  <div>This text should be red both in build and serve</div>\n</template>\n\n<style scoped></style>\n"],"names":["_sfc_render","_ctx","_cache"],"mappings":"yIAGE,SAAAA,EAAAC,EAAAC,EAAA"}

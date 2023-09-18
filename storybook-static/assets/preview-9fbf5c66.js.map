@@ -1,0 +1,1 @@
+{"version":3,"file":"preview-9fbf5c66.js","sources":["../../.storybook/preview.js"],"sourcesContent":["export const parameters = {\n  layout: 'centered',\n};\n"],"names":["parameters"],"mappings":"AAAY,MAACA,EAAa,CACxB,OAAQ,UACV"}
